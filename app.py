@@ -14,10 +14,7 @@ st.title("#WebFruitSummer - Cible 🍋🫐")
 left_block, right_block = st.columns([1, 1])
 
 # Chargement des données
-def load_data():
-    return pd.read_excel('marketing_campaign_2.xls', sheet_name='marketing_campaign_2')
-
-df = load_data()
+df = pd.read_excel('marketing_campaign_2.xls', sheet_name='marketing_campaign_2')
 
 #Transformer les données
 del df['Complain']
