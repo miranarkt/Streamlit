@@ -13,8 +13,10 @@ st.title("#WebFruitSummer - Cible 🍋🫐")
 # Organisation du dashboard 
 left_block, right_block = st.columns([1, 1])
 
+print('Miaou')
+
 # Chargement des données
-df = pd.read_excel('./marketing_campaign_2.xls', sheet_name='marketing_campaign_2')
+df = pd.read_excel('marketing_campaign_2.xls', sheet_name='marketing_campaign_2')
 
 #Transformer les données
 del df['Complain']
