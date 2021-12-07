@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px 
 from PIL import Image
+import nalou
 
 # Utilise tout l'espace disponible
 st.set_page_config(layout='wide')
