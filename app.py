@@ -7,7 +7,6 @@ from PIL import Image
 # Utilise tout l'espace disponible
 st.set_page_config(layout='wide')
 
-print('Miaou')
 # Titre du Dashboard
 st.title("#WebFruitSummer - Cible 🍋🫐")
 
