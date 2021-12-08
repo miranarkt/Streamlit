@@ -20,6 +20,6 @@ J'ai d'abord édité mon Streamlit en local (cependant, il existe une version en
 
 **Enfin, ce tableau de bord n'est pas responsive 🙊, merci de le consulter uniquement sur desktop.**
 
-Important : Malheureusement, il faut faire la manip manuelle de mettre Streamlit en mode "Light" (Settings > Theme > Light). Un ticket est en cours chez Streamlit pour régler ce pb. 
+**Important** : Malheureusement, il faut faire la manip manuelle de mettre Streamlit en mode "Light" (Settings > Theme > Light). Un ticket est en cours chez Streamlit pour régler ce pb. 
 
 Merci pour votre lecture 🥳
