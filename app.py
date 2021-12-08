@@ -10,17 +10,15 @@ st.set_page_config(layout='wide')
 # Titre du Dashboard
 st.title("#WebFruitSummer - Cible 🍋🫐")
 
-st.write('Contexte : Missionés par l\'entreprise « Extra Fruit », vous devez définir la cible pour le lancement de la campagne de promotion web #WebFruitSummer.')
-
 st.markdown("""
-<style>
+<style><i>
 .big-font {
     font-size:300px !important;
 }
-</style>
+</i></style>
 """, unsafe_allow_html=True)
 
-st.markdown('<p class="big-font">Hello World !!</p>', unsafe_allow_html=True)
+st.markdown('<p class="big-font">Contexte : Missionés par l\'entreprise « Extra Fruit », vous devez définir la cible pour le lancement de la campagne de promotion web #WebFruitSummer.</p>', unsafe_allow_html=True)
 
 # Organisation du dashboard 
 left_block, right_block = st.columns([1, 1])
