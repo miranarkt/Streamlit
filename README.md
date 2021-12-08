@@ -10,11 +10,11 @@ Présentation rapide : https://www.canva.com/design/DAEx5AcM_Yg/MWYYyPc5FDE0QCut
 
 Pour réaliser ce tableau de bord, j'ai installé Python 3, Streamlit, Pandas, Matplotlib, Plotly Express sur mon Mac. 
 
-Mon DataFrame vient de Kaggle : https://www.kaggle.com/rodsaldanha/arketing-campaign. 
+Mon DataFrame vient de Kaggle : https://www.kaggle.com/rodsaldanha/arketing-campaign.
 
-J'ai également utilisé Anaconda pour lancer mon terminal et la commande : streamlit run app.py et VisualCodeStudio pour effectuer mon script. J'ai édité mon Streamlit en local. Cependant, il existe une version en ligne pour faire des MàJ en Prod. 
+J'ai également utilisé Anaconda pour lancer mon terminal et la commande : streamlit run app.py et VisualCodeStudio pour effectuer mon script.
 
-La mise en ligne du TDB passe par Streamlit Cloud.
+J'ai d'abord édité mon Streamlit en local (cependant, il existe une version en ligne pour faire des MàJ en prod). La mise en ligne du TDB passe ensuite par Streamlit Cloud.
 
 **Enfin, ce tableau de bord n'est pas responsive 🙊, merci de le consulter uniquement sur desktop.**
 
