@@ -16,4 +16,6 @@ J'ai également utilisé Anaconda pour lancer mon terminal et la commande : stre
 
 La mise en ligne du TDB passe par Streamlit Cloud.
 
+**Enfin, ce tableau de bord n'est pas responsive 🙊, merci de le consulter uniquement sur desktop.**
+
 Merci 🥳
