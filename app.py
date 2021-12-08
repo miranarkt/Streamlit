@@ -155,7 +155,7 @@ with col2:
 
 #Regroupement de la fréquence d'achat pour les personnes mariées
 
-st.write('Nous pouvons déjà isoler la cible des personnes mariées.')
+st.markdown('_Nous pouvons déjà isoler la cible des personnes mariées._')
 
 product_choice = df2[['Marital_Status','Frequency']].groupby(by=['Marital_Status'], as_index=False).count()
 #st.write(product_choice)
