@@ -10,6 +10,8 @@ st.set_page_config(layout='wide')
 # Titre du Dashboard
 st.title("#WebFruitSummer - Cible 🍋🫐")
 
+st.write('Missionez par l\'entreprise « Extra Fruit », vous devez définir la cible pour le lancement de la campagne web #WebFruitSummer.')
+
 # Organisation du dashboard 
 left_block, right_block = st.columns([1, 1])
 
