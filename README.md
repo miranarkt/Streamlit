@@ -8,7 +8,7 @@ Mise en contexte : MISSIONNÉS PAR L'ENTREPRISE EXTRA FRUIT, VOUS DEVEZ DÉFINIR
 
 Présentation rapide : https://www.canva.com/design/DAEx5AcM_Yg/MWYYyPc5FDE0QCutzwPgiA/view?utm_content=DAEx5AcM_Yg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
 
-Pour réaliser ce tableau de bord, j'ai installé Python 3, Streamlit, Pandas, Matplotlib, Plotly Express sur mon Mac. N'hésitez pas à insttaller également NumPy si besoin.
+Pour réaliser ce tableau de bord, j'ai installé Python 3, Streamlit, Pandas, Matplotlib, Plotly Express sur mon Mac. 
 
 Mon DataFrame vient de Kaggle : https://www.kaggle.com/rodsaldanha/arketing-campaign. 
 
