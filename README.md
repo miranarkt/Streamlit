@@ -10,6 +10,8 @@ Présentation rapide : https://www.canva.com/design/DAEx5AcM_Yg/MWYYyPc5FDE0QCut
 
 Pour réaliser ce tableau de bord, j'ai installé Python 3, Streamlit, Pandas, Matplotlib, Plotly Express sur mon Mac. 
 
+Il faut également télécharger la police Quicksand : https://fonts.google.com/specimen/Quicksand 
+
 Mon DataFrame vient de Kaggle : https://www.kaggle.com/rodsaldanha/arketing-campaign.
 
 J'ai également utilisé Anaconda pour lancer mon terminal et la commande : streamlit run app.py et VisualCodeStudio pour effectuer mon script.
@@ -18,4 +20,6 @@ J'ai d'abord édité mon Streamlit en local (cependant, il existe une version en
 
 **Enfin, ce tableau de bord n'est pas responsive 🙊, merci de le consulter uniquement sur desktop.**
 
-Merci 🥳
+Important : Malheureusement, il faut faire la manip manuelle de mettre Streamlit en mode "Light" (Settings > Theme > Light). Un ticket est en cours chez Streamlit pour régler ce pb. 
+
+Merci pour votre lecture 🥳
